@@ -51,7 +51,7 @@ button:hover{
 	padding-bottom: 30%;
 	margin: 1.66%;
 	float: left;
-	background-color: deeppink;
+	background-color: rgb(230, 16, 130);
 	border-radius: 15%;
 	transition: background 0.5s;
 	-webkit-transition: background 0.5;
