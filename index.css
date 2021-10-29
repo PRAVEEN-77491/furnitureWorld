@@ -1,11 +1,11 @@
 body{
  
-   background-color: black;
+   background-color: #000000;
    margin: 0;
 }
 h1{
-	color: rgb(255, 255, 255);
-	background-color: steelblue;
+	color: #ffffff;
+	background-color: #0000ff;
 	margin: 0;
 	text-align: center;
 	padding: 20px 0;
@@ -35,7 +35,7 @@ button:hover{
 #main{
 	margin: 20px auto;
 	max-width: 600px;
-	background-color: red;
+	background-color: #ff0000;
 }
 
 #color_display{
